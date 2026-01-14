@@ -1,0 +1,10 @@
+"Contenido de archivo" 
+Tras nacer, se le hincha el lomo y se le forma un caparazón. Escupe poderosa espuma por la boca.
+Altura 0,5 m
+Peso 9,0 kg
+Categoría Tortuguita
+Tipo Agua
+Debilidad Planta Eléctrico
+Habilidad Torrente
+Información sobre habilidad: Torrente 
+Potencia sus movimientos de tipo Agua cuando le quedan pocos PS.

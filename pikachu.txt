@@ -1,0 +1,10 @@
+"Contenido de archivo" 
+Cuando se enfada, este Pokémon descarga la energía que almacena en el interior de las bolsas de las mejillas.
+Altura 0,4 m
+Peso 6,0 kg
+Categoría Ratón
+Habilidad Elec. Estátic
+Información sobre habilidad:
+La electricidad estática que lo envuelve puede paralizar al Pokémon que lo ataque con un movimiento de contacto.
+Tipo Eléctrico
+Debilidad Tierra

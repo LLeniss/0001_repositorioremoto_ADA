@@ -1,0 +1,10 @@
+"Contenido de archivo"
+Tras nacer, crece alimentándose durante un tiempo de los nutrientes que contiene el bulbo de su lomo.
+Altura 0,7 m
+Peso 6,9 kg
+Categoría Semilla
+Tipo Planta Veneno
+Debilidad Fuego Hielo Volador Psíquica 
+Habilidad Espesura
+Información sobre habilidad Espesura:
+Potencia sus movimientos de tipo Planta cuando le quedan pocos PS
